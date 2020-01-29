@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>  //header file which defines input output operations
 using namespace std;
 
 int main()
